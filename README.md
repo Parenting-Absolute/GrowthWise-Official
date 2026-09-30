@@ -1,6 +1,6 @@
 # GrowthWise | By Parenting Absolute
 
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%207C%20Windows%207C%20MacOS%207C%20Linux-green.svg)](https://www.android.com)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20%7C%20Windows%20%7C%20MacOS%20%7C%20Linux-green.svg)](https://www.android.com)
 [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Download-brightgreen?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pag.excellencesuite)
 
 This is the official downloads repository of the GrowthWise App developed by Parenting Absolute Group.
