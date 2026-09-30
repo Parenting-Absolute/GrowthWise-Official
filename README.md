@@ -1,6 +1,6 @@
 # GrowthWise | By Parenting Absolute
 
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Desktop-green.svg)](https://www.android.com)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%207C%20Windows%207C%20MacOS%207C%20Linux-green.svg)](https://www.android.com)
 [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Download-brightgreen?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pag.excellencesuite)
 
 This is the official downloads repository of the GrowthWise App developed by Parenting Absolute Group.
@@ -40,7 +40,7 @@ This is the official downloads repository of the GrowthWise App developed by Par
 
 ## 📱 Screenshots & UI Highlights
 
-*GrowthWise features a modern, adaptive Material Design 3 interface built fully with Jetpack Compose, offering smooth animations, dark mode support, and an intuitive user experience.*
+*GrowthWise features a modern, adaptive interface, offering smooth animations, dark mode support, and an intuitive user experience.*
 
 ---
 
