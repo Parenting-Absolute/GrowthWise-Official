@@ -40,7 +40,15 @@ This is the official downloads repository of the GrowthWise App developed by Par
 
 ## 📱 Screenshots & UI Highlights
 
-*GrowthWise features a modern, adaptive interface, offering smooth animations, dark mode support, and an intuitive user experience.*
+<img width="1024" height="1536" alt="FYP" src="https://github.com/user-attachments/assets/d32fd087-ac28-4900-9553-42e1f42954ec" />
+<img width="1024" height="1536" alt="Affirmations" src="https://github.com/user-attachments/assets/1e21d90a-303f-4cfa-8582-748dbd4f2515" />
+<img width="1024" height="1536" alt="AI_Strategy" src="https://github.com/user-attachments/assets/56447977-0845-47e6-ae91-7257b32d059d" />
+<img width="1024" height="1536" alt="Goal-Setting" src="https://github.com/user-attachments/assets/afc49cc2-72a4-4715-8947-210acbceb877" />
+<img width="1024" height="1536" alt="Goal-Tracking" src="https://github.com/user-attachments/assets/bd67fe24-1cbc-49a9-94e1-d8255697933d" />
+<img width="1024" height="1536" alt="Prioritise" src="https://github.com/user-attachments/assets/f03e532a-04bf-48c6-99fc-0abaff56c91c" />
+<img width="1024" height="1536" alt="Courses" src="https://github.com/user-attachments/assets/e622ca30-b3ff-4332-8c93-3f64a90d8494" />
+<img width="1024" height="1536" alt="Decision" src="https://github.com/user-attachments/assets/d67a3e72-2c07-4a4f-9605-0271e7218eb7" />
+<img width="1024" height="1536" alt="Assessment" src="https://github.com/user-attachments/assets/324817a6-c4a2-485f-addb-5c58bb86fc32" />
 
 ---
 
